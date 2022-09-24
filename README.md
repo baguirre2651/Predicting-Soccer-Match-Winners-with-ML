@@ -42,3 +42,5 @@ Phase 2: Creating our Model
     -Each the object to increase prescision and accuracy.
     -Taken into the matches played in September our model has 
     an accuracy of 93% and prescion of about 95%, when looking at the combined data frame. 
+
+-Bryan Aguirre
