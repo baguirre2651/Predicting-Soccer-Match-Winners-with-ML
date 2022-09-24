@@ -1,5 +1,5 @@
 # Predicting-Soccer-Match-Winners-With-ML
-Creating a Machine Learning Model to Predict the Outcome for La-Liga Soccer Matches based on Data Scrapped from Past 3 Seasons.
+Creating a Machine Learning Model to Predict the Outcome for La-Liga Soccer Matches based on Data Scraped from Past 3 Seasons.
 
 Project Overview:
 
