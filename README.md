@@ -10,8 +10,8 @@ Imports: Beautiful Soup, Pandas, Random Forest Classifier,
 
 Phase 0: Picking the Data
     
-    -My Favorite Soccer Team is F.C Barcelona 
-    and so I decided to use Data from https://fbref.com/en/comps/12/La-Liga-Stats 
+    -My Favorite Soccer Team is F.C Barcelona, they plays in the Spanish La-Liga leauge.
+    and so I decided to use Data from La-Liga  https://fbref.com/en/comps/12/La-Liga-Stats 
     of the past 3 seasons (2018-2023) to collect my data to use for my model I will be creating/training. 
 
 
