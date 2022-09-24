@@ -10,13 +10,15 @@ Imports: Beautiful Soup, Pandas, Random Forest Classifier,
 
 Phase 0: Picking the Data
     
-    -My Favorite Soccer Team is F.C Barcelona and so I decided to use Data from https://fbref.com/en/comps/12/La-Liga-Stats of the current 2022-2023 season to collect my data to use for my model I will be creating. 
+    -My Favorite Soccer Team is F.C Barcelona and so I decided to use Data from https://fbref.com/en/comps/12/La-Liga-Stats 
+    of the current 2022-2023 season to collect my data to use for my model I will be creating. 
 
 
 
 Phase 1: Data Scraping 
     
-    -Because Data is messy and unorganized, I scraped the Data from past 3 seasons 2018-2023 to better extract and prepare it for the model to read information efficently. 
+    -Because Data is messy and unorganized, 
+    I scraped the Data from past 3 seasons 2018-2023 to better extract and prepare it for the model to read information efficently. 
     
     -Started off with getting standings url for the La-Liga season from FBREF.com
     -used Beautiful Soup import to take in the data text from Fbref.com to visualize it better
