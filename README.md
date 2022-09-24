@@ -41,6 +41,11 @@ Phase 2: Creating our Model
     -Increased Precision and Accuracy from the model by creating new predictors and using the rolling averages and combining --
     -Each the object to increase prescision and accuracy.
     -Taken into the matches played in September our model has 
-    an accuracy of 93% and prescion of about 95%, when looking at the combined data frame. 
+    an accuracy of 93% and prescion of about 95%, when looking at the combined data frame.
+    
+    
+    
+    <img width="1106" alt="Screen Shot 2022-09-24 at 4 53 11 PM" src="https://user-images.githubusercontent.com/107953902/192122653-f29c37eb-2203-4d78-93b0-021232b65d0c.png">
+
 
 -Bryan Aguirre
