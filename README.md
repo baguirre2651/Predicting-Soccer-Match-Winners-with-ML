@@ -12,7 +12,7 @@ Phase 0: Picking the Data
     
     -My Favorite Soccer Team is F.C Barcelona 
     and so I decided to use Data from https://fbref.com/en/comps/12/La-Liga-Stats 
-    of the current 2022-2023 season to collect my data to use for my model I will be creating. 
+    of the past 3 seasons (2018-2023) to collect my data to use for my model I will be creating. 
 
 
 
