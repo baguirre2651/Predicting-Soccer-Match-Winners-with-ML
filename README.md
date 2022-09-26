@@ -1,14 +1,14 @@
 # Predicting-Soccer-Match-Winners-With-ML
-Creating a Machine Learning Model to Predict the Outcome for La-Liga Soccer Matches based on Data Scraped from Past 3 Seasons.
+Creating a Machine Learning Model to Predict the Outcome for La-Liga Soccer Matches based on Data Scraped Over The Past 3 Seasons.
 
-Project Overview:
+# Project Overview:
 
 Skills: Python3, Machine Learning, Random Forest Classifier Algorithm, Data Scraping, Jupyter Notebook 
 
 Imports: Beautiful Soup, Pandas, Random Forest Classifier,
 
 
-Phase 0: Picking the Data
+# Phase 0: Picking the Data
     
     -My Favorite Soccer Team is F.C Barcelona, they play in the Spanish La-Liga leauge.
     and so I decided to use Data from La-Liga  https://fbref.com/en/comps/12/La-Liga-Stats 
@@ -16,7 +16,7 @@ Phase 0: Picking the Data
 
 
 
-Phase 1: Data Scraping 
+# Phase 1: Data Scraping 
     
     -Because Data is messy and unorganized, 
     I scraped the Data from past 3 seasons 2018-2023 to
@@ -33,7 +33,7 @@ Phase 1: Data Scraping
     -Turned data into a csv called "Matches.csv"
     
 
-Phase 2: Creating our Model 
+# Phase 2: Creating our Model 
    
     Used Our Scraped Data from the past 3 la liga seasons 2018-2019, 2020-2021, 2022-2023.
     -Used a Random Forest Classifier to create a model that takes in the data from the sets in order to make predictions on outcomes and compare actual results.
