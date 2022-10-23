@@ -42,7 +42,7 @@ Imports: Beautiful Soup, Pandas, Random Forest Classifier,
     -Increased Precision and Accuracy from the model by creating new predictors and using the rolling averages and combining --
     -Each the object to increase prescision and accuracy.
     -Taken into the matches played in September our model has 
-    an accuracy of 93% and prescion of about 95%, when looking at the combined data frame.
+    an accuracy of and prescion score of about 71%, when looking at the combined data frame.
     
     
  --   
