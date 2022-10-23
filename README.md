@@ -5,7 +5,7 @@ Creating a Machine Learning Model to Predict the Outcome for La-Liga Soccer Matc
 
 Skills: Python3, Machine Learning, Random Forest Classifier Algorithm, Data Scraping, Jupyter Notebook 
 
-Imports: Beautiful Soup, Pandas, Random Forest Classifier,
+Imports: Beautiful Soup, Pandas, Random Forest Classifier, Requests, SKLearn 
 
 
 # Phase 0: Picking the Data
